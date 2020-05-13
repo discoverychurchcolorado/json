@@ -1,0 +1,25 @@
+{
+	"providerName": "Living As One",
+	"language": "en-US",
+	"lastUpdated": "2017-08-26T18:12:32.125Z",
+	"shortFormVideos": [{
+		"id": "uid1",
+		"title": "Discovery Church Colorado",
+		"shortDescription": "Get Hope Give Hope",
+		"thumbnail": "",
+		"genres": ["gaming", "technology"],
+		"tags": ["church", "broadcasts", "live"],
+		"releaseDate": "2017-08-26",
+		"content": {
+			"dateAdded": "2017-08-26T14:14:54.431Z",
+			"captions": [],
+			"duration": 53,
+			"videos": [{
+				"url": "https://media35.livingasone.com/dis-col-co/Manifest.m3u8",
+				"quality": "FHD",
+				"videoType": "HLS”,
+				"bitrate": "3000"
+			}]
+		}
+	}]
+}
